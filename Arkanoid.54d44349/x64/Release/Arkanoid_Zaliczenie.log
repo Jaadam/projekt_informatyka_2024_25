@@ -1,0 +1,43 @@
+﻿  Main.cpp
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,51): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,51): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,51): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,51): warning C4244:             T=unsigned int
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,51): warning C4244:         ]
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,31): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,31): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,31): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,31): warning C4244:             T=unsigned int
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Main.cpp(10,31): warning C4244:         ]
+  Menu.cpp
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(16,45): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(16,45): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(16,45): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(16,45): warning C4244:             T=float
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(16,45): warning C4244:         ]
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(23,45): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(23,45): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(23,45): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(23,45): warning C4244:             T=float
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(23,45): warning C4244:         ]
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(30,45): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(30,45): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(30,45): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(30,45): warning C4244:             T=float
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(30,45): warning C4244:         ]
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(37,45): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(37,45): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(37,45): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(37,45): warning C4244:             T=float
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(37,45): warning C4244:         ]
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(44,45): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(44,45): warning C4244:         with
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(44,45): warning C4244:         [
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(44,45): warning C4244:             T=float
+C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\Menu.cpp(44,45): warning C4244:         ]
+  Trwa generowanie kodu
+  6 of 115 functions ( 5.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Arkanoid_Zaliczenie.vcxproj -> C:\Users\adamj\OneDrive\Pulpit\Projekt_Zaliczenie\Arkanoid_Zaliczenie\x64\Release\Arkanoid_Zaliczenie.exe
